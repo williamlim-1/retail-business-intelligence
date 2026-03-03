@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+#Local machine config
+local_config.py
+
+# Ignore full raw dataset
+raw-data/retail_transactions_raw.csv
