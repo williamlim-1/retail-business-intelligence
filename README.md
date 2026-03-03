@@ -1,4 +1,4 @@
-# Retail BI - Data Modeling and Visualization Case Study
+# Retail Business Intelligence & Sales Analytics
 End-to-end Business Intelligence project analyzing 250,000+ retail transactions to evaluate revenue, margin, promotions, and regional performance using dimensional modeling for a mock commerce/retail company. This project utilizes **MOCK DATA** generated for the sole purpose of this project. 
 
 ## Project Overview
