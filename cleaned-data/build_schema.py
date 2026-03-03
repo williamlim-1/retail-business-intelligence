@@ -8,8 +8,8 @@ OUT_DIR = BASE_DIR
 
 
 # NOTE: Repository includes sample raw data due to file size limits.
-# Full dataset used during development is not automatically included but can be generated.
-TX_FILE = "retail_transactions_raw.csv"
+# Replace with retail_transactions_full.csv if generating full dataset locally.
+TX_FILE = "retail_transactions_sample.csv"
 STORE_FILE = "store_locations_raw.csv"
 
 tx_path = os.path.join(RAW_DIR, TX_FILE)

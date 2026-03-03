@@ -37,7 +37,7 @@ The dataset contains over 250,000 retail transactions across 2 years of operatio
 - Automotive  
 - Premium Goods  
 
-Northlake operates a high-volume, promotion-driven retail model with regional category preferences and seasonal demand shifts.
+This company operates a high-volume, promotion-driven retail model with regional category preferences and seasonal demand shifts.
 
 ---
 
