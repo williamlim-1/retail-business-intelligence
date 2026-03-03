@@ -130,7 +130,8 @@ After cleaning, the data was modeled into a structured analytical format suitabl
 
 ## Tech Stack
 
-- Python (pandas, numpy)  
+- Python (pandas)  
 - CSV data generation  
-- Power BI  
+- Power BI
+- DAX
 - Dimensional modeling (star schema)  
