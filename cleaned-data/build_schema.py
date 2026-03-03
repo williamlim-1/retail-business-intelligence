@@ -1,6 +1,5 @@
 import os
 import pandas as pd
-import numpy as np
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 RAW_DIR = os.path.abspath(os.path.join(BASE_DIR, "..", "raw-data"))
