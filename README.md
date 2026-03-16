@@ -96,6 +96,7 @@ This project answers key executive questions:
 - How does seasonality affect revenue trends?  
 - What are the top products by revenue?
 - What specific stores produce the highest revenue?
+- Do specific categories get discounted more than others?
 
 ---
 
