@@ -91,10 +91,11 @@ This project answers key executive questions:
 
 - Which categories drive the highest revenue and margin?  
 - How do promotions impact profitability?  
-- Which regions over-discount?  
-- Where are premium goods outperforming?  
+- Which regions over-discount, or is it relatively standard?  
+- How much of revenue is made up of premium goods sales?  
 - How does seasonality affect revenue trends?  
-- Which stores are underperforming relative to region averages?  
+- What are the top products by revenue?
+- What specific stores produce the highest revenue?
 
 ---
 
