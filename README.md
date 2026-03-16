@@ -125,6 +125,8 @@ After cleaning, the data was modeled into a structured analytical format suitabl
 - Average Discount %  
 - Units per Transaction  
 - Regional Premium Penetration (Percentage of total revenue that consists of Premium Goods sales)
+- Profit Margin without Promotion
+- Profit Margin with Promotion
 
 
 ---
